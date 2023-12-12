@@ -5,10 +5,9 @@ date:   2022-10-01 00:00:00 +00:00
 image: /images/starj.jpg
 categories: research
 website: "https://arxiv.org/pdf/2210.01549.pdf"
-author: "Kilian Haefeli"
+authors: "Kilian Haefeli"
+advisors: "Karolis Martinkus, Nathanaël Perraudin"
 subtitle: "Semester Thesis"
 ---
 Supervised by [Karolis Martinkus](https://disco.ethz.ch/members/mkarolis){:target="_blank"} and [Nathanaël Perraudin](https://perraudin.info){:target="_blank"} I developed a application specific model for predicting the temporal evolution of a phase boundary generated during 3D-printing.
 We used the star-convexity of the shapes in order to reduce our model size to a fraction. Further, by using the assumption on the smoothness of the underlying heat equation we used Graph Neural Network to get state of the art results with a tiny model.
-
-The source code is undisclosed but you can find a project report [here](https://arxiv.org/pdf/2210.01549.pdf){:target="_blank"}
