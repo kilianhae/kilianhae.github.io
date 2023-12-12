@@ -9,7 +9,7 @@ author: "Kilian Haefeli"
 venue: "Learning on Graphs Conference"
 code: https://github.com/kilianhae/discrete_DPPM_Graphs
 arxiv: https://arxiv.org/pdf/2210.01549.pdf
-authors: "<strong>Kilian Haefeli<strong>, Karolis Martinkus, Nathanaël Perraudin, Roger Wattenhofer"
+authors: "Kilian Haefeli, Karolis Martinkus, Nathanaël Perraudin, Roger Wattenhofer"
 subtitle: "A new diffusion model for Graphs"
 ---
 Developed a Diffusion Model for Graphs using discrete Bernoulli perturbations.
