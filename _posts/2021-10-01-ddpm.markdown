@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Diffusion Models for Graphs Benefit From Discrete State Spaces"
+date:   2021-10-01 00:00:00 +00:00
+image: /images/ddpm.png
+categories: Research
+author: "Kilian Haefeli"
+subtitle: "A new diffusion model for Graphs"
+---
+Supervised by [Karolis Martinkus](https://disco.ethz.ch/members/mkarolis){:target="_blank"} and [Nathanaël Perraudin](https://perraudin.info){:target="_blank"} I have implemented a Diffusion Model for graphs using discrete Bernoulli perturbations. We published the paper in a neurips workshop and at the first Learning On Graphs Conference.
+
+During this I have learned about the Diffusion Models, GNNs and on how to implement more complex models in Pytorch with efficient implementations.
+Furthermore I learned how to use a Compute Cluster for managing training runs (we used the SCSC Lugano Cluster) and how to conduct experiments and write a scientific report.
+
+The source code can be found [here](https://github.com/kilianhae/discrete_DPPM_Graphs){:target="_blank"} and the publication found [here](https://arxiv.org/pdf/2210.01549.pdf){:target="_blank"}
