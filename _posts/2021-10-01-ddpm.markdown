@@ -2,8 +2,8 @@
 layout: post
 title:  "Diffusion Models for Graphs Benefit From Discrete State Spaces"
 date:   2021-10-01 00:00:00 +00:00
-image: /images/ddpm.png
-categories: Research
+image: /images/ddpm.jpg
+categories: research
 author: "Kilian Haefeli"
 subtitle: "A new diffusion model for Graphs"
 ---
