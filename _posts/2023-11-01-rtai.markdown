@@ -2,7 +2,7 @@
 layout: post
 title:  "Implementation of Optimizable DeepPoly"
 date:   2022-10-01 00:00:00 +00:00
-image: /images/ddpm.jpg
+image: /images/deeppoly.jpg
 categories: projects
 website: "https://github.com/kilianhae/RTAI23_project"
 authors: "Kilian Haefeli"
