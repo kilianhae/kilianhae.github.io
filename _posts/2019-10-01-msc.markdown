@@ -2,7 +2,7 @@
 layout: post
 title:  "ETH Zurich Bachelors"
 date:   2022-10-01 00:00:00 +00:00
-image: /images/eth.jpg
+image: /images/ethz.jpg
 categories: Education
 author: "Kilian Haefeli"
 ---
