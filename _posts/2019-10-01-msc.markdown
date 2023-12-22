@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ETH Zurich Bachelors"
+title:  "ETH Zurich Masters"
 date:   2022-10-01 00:00:00 +00:00
 image: /images/ethz.jpg
 categories: Education

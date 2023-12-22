@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "University of Toronto Exchange"
+date:   2024-01-01 00:00:00 +00:00
+image: /images/uoft.jpg
+categories: Education
+author: "Kilian Haefeli"
+---
+Attending UofT ECEE as a Graduate Exchange Student.\
+Coursework is focused on Signal Processing, Statistical Learning Theory and Parallel Systems.
