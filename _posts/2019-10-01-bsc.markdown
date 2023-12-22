@@ -6,4 +6,4 @@ image: /images/eth.jpg
 categories: Education
 author: "Kilian Haefeli"
 ---
-Attended ETH from 2019 - 2022 in the bachelor program in Electrical Engineering and Information Technology.
+Attended ETH from 2019 - 2022 in the Bachelor Program in Electrical Engineering and Information Technology.
