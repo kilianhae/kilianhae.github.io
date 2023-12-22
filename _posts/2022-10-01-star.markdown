@@ -4,7 +4,7 @@ title:  "Efficient Neural Representation Learning for Star-Convex Boundaries"
 date:   2022-10-01 00:00:00 +00:00
 image: /images/starj.jpg
 categories: research
-website: "https://arxiv.org/pdf/2210.01549.pdf"
+website: "undisclosed"
 authors: "Kilian Haefeli"
 advisors: "Karolis Martinkus, Nathanaël Perraudin"
 subtitle: "Semester Thesis"
