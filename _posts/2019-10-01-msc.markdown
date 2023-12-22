@@ -6,7 +6,7 @@ image: /images/eth.jpg
 categories: Education
 author: "Kilian Haefeli"
 ---
-Currently attending ETH Zurich majoring in Machine Intelligence.
-Notable Courses: Advanced Machine Learning (Density Estimation, GMM, GP, Boosting & Bagging, VAE, GAN, VC & Statistical Learning, Nonparametric Bayesian), Probabilistic Artificial Intelligence (Bayesianism, GP, Monte Carlo Inference, MCMM, Active Learning, MDP, Reinforcement Learning), 
-Mathematics of Data Science (Concentration Inequalities, Convex Relaxations, Random Matrix Concentrations, MinCut and Spectral Clustering, MaxCut),
-Machine Perception (CNN Architectures, Transformers, Contrastive Learning, Parametric Body Models)
+Currently attending ETH Zurich majoring in Machine Intelligence and Signal Processing.
+Notable Courses:\ Advanced Machine Learning (Density Estimation, GMM, GP, Boosting & Bagging, VAE, GAN, VC & Statistical Learning, Nonparametric Bayesian)\ Probabilistic Artificial Intelligence (Bayesianism, GP, Monte Carlo Inference, MCMM, Active Learning, MDP, Reinforcement Learning)\
+Mathematics of Data Science (Concentration Inequalities, Convex Relaxations, Random Matrix Concentrations, MinCut and Spectral Clustering, MaxCut)\
+Machine Perception (CNN Architectures, Generative Models (AE,VAE,HVAE,DDPM,GAN,Flow), Transformers, Contrastive Learning, Parametric Body Models)
