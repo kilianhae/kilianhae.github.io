@@ -6,7 +6,7 @@ image: /images/ddpmj.jpg
 categories: research
 website: "https://arxiv.org/pdf/2210.01549.pdf"
 author: "Kilian Haefeli"
-venue: "Learning on Graphs Conference"
+venue: "Learning on Graphs Conference and NeurIPS 2022 GLFrontiers Workshop"
 code: https://github.com/kilianhae/discrete_DPPM_Graphs
 arxiv: https://arxiv.org/pdf/2210.01549.pdf
 authors: "Kilian Haefeli, Karolis Martinkus, Nathanaël Perraudin, Roger Wattenhofer"

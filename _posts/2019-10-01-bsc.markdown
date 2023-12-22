@@ -2,8 +2,8 @@
 layout: post
 title:  "ETH Zurich Bachelors"
 date:   2019-10-01 00:00:00 +00:00
-image: /images/ethz.jpg
+image: /images/ethlogo.jpg
 categories: Education
 author: "Kilian Haefeli"
 ---
-Attended ETH from 2019 - 2022 in the Bachelor Program in Electrical Engineering and Information Technology.
+Did my bachelors degree at ETH from 2019 - 2022 in Electrical Engineering and Information Technology. My coursework was focused on Algorithms and Signal Processing and Computer Science.
