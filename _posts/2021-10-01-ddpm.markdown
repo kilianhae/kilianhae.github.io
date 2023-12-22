@@ -1,17 +1,10 @@
 ---
 layout: post
-title:  "Diffusion Models for Graphs Benefit From Discrete State Spaces"
-date:   2021-10-01 00:00:00 +00:00
-image: /images/ddpmj.jpg
-categories: research
-website: "https://arxiv.org/pdf/2210.01549.pdf"
-author: "Kilian Haefeli"
-venue: "Learning on Graphs Conference and NeurIPS 2022 GLFrontiers Workshop"
-code: https://github.com/kilianhae/discrete_DPPM_Graphs
-arxiv: https://arxiv.org/pdf/2210.01549.pdf
-authors: "Kilian Haefeli, Karolis Martinkus, Nathanaël Perraudin, Roger Wattenhofer"
-subtitle: "A new diffusion model for Graphs"
+title:  "Implementation of Optimizable DeepPoly"
+date:   2022-10-01 00:00:00 +00:00
+image: /images/ddpm.jpg
+categories: projects
+website: "https://github.com/kilianhae/RTAI23_project"
+authors: "Kilian Haefeli"
 ---
-Developed a Diffusion Model for Graphs using discrete Bernoulli Perturbations of edge connections.
-Over previous Graph Diffusion Models this approach results in maintained sparsity, and sampling with much less steps. \
-During the Project I learned PyTorch and Lighnting to build models and slurm for managing training runs and wandb for tracking and analyzing runs.
+As part of the course "Reliable and Trustworthy Estimation" I implemented an optimizable DeepPoly Verifier. The verifiers are implemented as torch Modules so that their configurations are compatible wth any Optimizer Setup that PyTorch has to offer. Implemented are verifiers for MLP, Flatten, Conv2D, ReLU, LeakyReLU.

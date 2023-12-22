@@ -10,5 +10,7 @@ advisors: "Karolis Martinkus, Nathanaël Perraudin"
 subtitle: "Semester Thesis"
 ---
 Supervised by [Karolis Martinkus](https://disco.ethz.ch/members/mkarolis){:target="_blank"} and [Nathanaël Perraudin](https://perraudin.info){:target="_blank"} I developed a neural representation model for predicting the temporal evolution of a phase boundary generated during 3D-printing.\
-Using the star-convexity of the phase boundaries allowed us to parameterize the phase directly vs implicitelly learning it by parameterizing the underlying temperature field. Further, by using the assumption on the smoothness of the underlying heat equation we used a Graph Neural Network to get state of the art results with a tiny model.\
+Using the star-convexity of the phase boundaries allowed us to parameterize the phase directly vs implicitelly learning it by parameterizing the underlying temperature field. The parameterization at a single time was learned as a Graph Neural Network and over time as an RNN.
+
+
 I expanded my capabilities in writing and organizing a large scale project with different datasources, different models, and different Datasets and Dataloaders. I did this by using Hydra for config management and Lightning to organize my torch modules.
