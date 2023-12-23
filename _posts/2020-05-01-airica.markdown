@@ -4,6 +4,7 @@ title:  "Airica"
 date:   2020-05-01 00:00:00 +00:00
 image: /images/eden.jpg
 categories: Experience
+role: Co-Founder & Junior Data Scientist
 website: "https://airica.com"
 ---
 Together with my friend [Lukas Limacher](https://www.linkedin.com/in/lukaslimacher/){:target="_blank"} I started an IoT company specializing in models for predicting meeting room occupancy.\ In the founding year I specialized in product development and prototyping and build our MVP. In the later stages as my interests grew more technical alongside my studies I switched to a Junior Data Science role working with the amazing [Vassilis Kalofolias](https://scholar.google.com/citations?user=Bz1RQ8MAAAAJ&hl=en){:target="_blank"}.\ We sold the company in 2022 to Logitech.
