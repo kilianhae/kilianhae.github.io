@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Airica"
+date:   2020-05-01 00:00:00 +00:00
+image: /images/eden.jpg
+categories: research
+website: "https://airica.com"
+---
+Together with my friend Lukas Limacher I started an IoT company specializing in models for predicting meeting room occupancy. There I specialized in various different tasks from starting doing mainly product development and prototyping to in the later stages switching to a Data Science role as my interests grew more technical alongside my studies. We sold the company in 2022 to Logitech.
