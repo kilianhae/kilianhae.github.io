@@ -141,7 +141,9 @@
               <em>{{post.categories}} {{post.course}}</em>
               <br>
               {{ post.date | date: "%Y-%m-%d" }}
-
+              <br>
+              <br>
+              {{ post.role | role: post.role }}
               <br>
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
