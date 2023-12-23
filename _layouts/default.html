@@ -140,7 +140,7 @@
               <br>
               <em>{{post.categories}} {{post.course}}</em>
               <br>
-              {{ post.date | date: "%Y-%m-%d" }}
+              {{ post.from | from: "%Y-%m-%d" }} / {{ post.until | until: "%Y-%m-%d" }}
               <br>
               <br>
               {{ post.role | role: post.role }}

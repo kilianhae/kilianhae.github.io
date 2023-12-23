@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Airica"
-date:   2020-05-01 00:00:00 +00:00
-image: /images/eden.jpg
+from:   2023-05-01 00:00:00 +00:00
+until: 2023-06-01 00:00:00 +00:00
+image: /images/aleph.jpg
 categories: Experience
 role: Co-Founder & Junior Data Scientist
 website: "https://airica.com"
