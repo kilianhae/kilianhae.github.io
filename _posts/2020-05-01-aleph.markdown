@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Airica"
+title:  "Aleph Alpha"
 from:   2023-10-01 00:00:00 +00:00
 until: 2024-01-14 00:00:00 +00:00
 image: /images/aleph.jpg
 categories: Experience
-role: Co-Founder & Junior Data Scientist
+role: LLM Engineer Intern
 website: "https://airica.com"
 ---
-Together with my friend [Lukas Limacher](https://www.linkedin.com/in/lukaslimacher/){:target="_blank"} I started an IoT company specializing in models for predicting meeting room occupancy.\
-In the founding year I specialized in product development and prototyping and build our MVP. In the later stages as my interests grew more technical alongside my studies I switched to a Junior Data Science role working with the amazing [Vassilis Kalofolias](https://scholar.google.com/citations?user=Bz1RQ8MAAAAJ&hl=en){:target="_blank"}.\
-We sold the company in 2022 to Logitech, where I stayed on for 4 additional months before leaving to take as many courses as possible.
-
+Building LLM applications using Retrieval Augmanted Generation, Fine Tunings, and Prompting.
