@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Logitech"
+from:   2023-06-01 00:00:00 +00:00
+until: 2023-10-01 00:00:00 +00:00
+image: /images/Logi.jpg
+categories: Experience
+role: Junior Data Scientist
+website: "https://logitech.com"
+---
+Built and evaluated a new Recurrent Neural Network for time series prediction of Co2 concentration.

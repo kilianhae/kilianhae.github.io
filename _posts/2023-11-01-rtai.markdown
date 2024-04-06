@@ -7,4 +7,4 @@ categories: projects
 website: "https://github.com/kilianhae/RTAI23_project"
 authors: "Kilian Haefeli"
 ---
-As part of the course "Reliable and Trustworthy Estimation" I implemented an optimizable DeepPoly Verifier. The verifiers are implemented as torch Modules so that their configurations are compatible wth any Optimizer Setup that PyTorch has to offer. Implemented are verifiers for MLP, Flatten, Conv2D, ReLU, LeakyReLU.
+Implemented an optimizable Neural DeepPoly Verifier. The verifiers are implemented as torch Modules so that their configurations are compatible wth any Optimizer Setup that PyTorch has to offer. Implemented are verifiers for MLP, Flatten, Conv2D, ReLU, LeakyReLU layers.
