@@ -6,6 +6,6 @@ until: 2024-01-14 00:00:00 +00:00
 image: /images/aleph.jpg
 categories: Experience
 role: LLM Engineer Intern
-website: "https://airica.com"
+website: "https://aleph-alpha.com"
 ---
 Working on Retrieval Augmented Generation.
