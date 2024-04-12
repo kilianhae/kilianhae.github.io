@@ -8,4 +8,4 @@ categories: Experience
 role: Junior Data Scientist
 website: "https://logitech.com"
 ---
-Built and Evaluated a Recurrent Neural Network for time series prediction of Co2 concentration.
+Built and Evaluated Recurrent Neural Nets for time series prediction of Co2 concentration.
