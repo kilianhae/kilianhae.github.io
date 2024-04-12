@@ -8,4 +8,4 @@ categories: Experience
 role: LLM Engineer Intern
 website: "https://airica.com"
 ---
-Building LLM applications using Retrieval Augmanted Generation, Fine Tunings, and Prompting.
+Working on Retrieval Augmented Generation.
