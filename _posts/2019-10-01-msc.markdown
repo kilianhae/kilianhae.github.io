@@ -6,12 +6,4 @@ image: /images/ethlogo.jpg
 categories: Education
 author: "Kilian Haefeli"
 ---
-Currently attending ETH Zurich majoring in Machine Intelligence and Signal Processing.
-Notable Courses:
-- __Advanced Machine Learning__: Density Estimation, GMM, GP, Boosting & Bagging, VAE, GAN, VC & Statistical Learning, Nonparametric Bayesian
-- __Probabilistic Artificial Intelligence__: Bayesianism, GP, Monte Carlo Inference, MCMM, Active Learning, MDP, Reinforcement Learning
-- __Mathematics of Data Science__: Concentration Inequalities, Convex Relaxations, Random Matrix Concentrations, MinCut and Spectral Clustering, MaxCut
-- __Machine Perception__: CNN Architectures, Generative Models (AE, VAE, HVAE, DDPM, GAN, Flow), Transformers, Contrastive Learning, Parametric Body Models
-- __Reliable and Trustworthy AI__: Robustness, Adversarial Attacks, Differential Privacy, Synthetic Data, Fairness
-- __Optimization for Data Science__: Convex Optimization (Gradient Descent, Projected GD, Coordiante Descent), Nonconvex Optimization, 2nd Order Methods, Subgradient Methods, Mirror Descent, Smoothing, Variance Reduction, Min-Max Optimization
-- __Mathematical Optimization__: Linear Programs, Dynamic Programs, Combinatorial Optimization (Polyhedral and Ellipsoid)
+Focussing on optimization and theory of Neural Networks as well as systems for Transformers.

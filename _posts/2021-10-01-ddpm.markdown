@@ -12,6 +12,6 @@ arxiv: https://arxiv.org/pdf/2210.01549.pdf
 authors: "Kilian Haefeli, Karolis Martinkus, Nathanaël Perraudin, Roger Wattenhofer"
 subtitle: "A new diffusion model for Graphs"
 ---
-A new Diffusion Model for Graphs using discrete Bernoulli Perturbations of edge connections.
-Over previous Graph Diffusion Models this approach results in maintained sparsity, and sampling with much less steps.\
+Diffusion Model for Graphs using discrete Bernoulli Perturbations over edge connections.
+This approach results in maintained sparsity, and sampling with much less steps resulting in new SOTA graph generation.\
 <!-- Implemented in PyTorchto build models and slurm for managing training runs and wandb for tracking and analyzing runs. -->

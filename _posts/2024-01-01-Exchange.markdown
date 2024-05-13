@@ -6,5 +6,4 @@ image: /images/uoft.jpg
 categories: Education
 author: "Kilian Haefeli"
 ---
-Attending UofT ECEE as a Graduate Exchange Student.\
-Coursework is focused on Signal Processing, Statistical Learning Theory and Parallel Systems.
+Attending UofT ECEE as a Graduate Exchange Student learning about Information Theory, Statistical Learning Theory and Parallel Systems.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Implementation of Optimizable DeepPoly"
+title:  "Optimizable DeepPoly"
 date:   2022-10-01 00:00:00 +00:00
 image: /images/deeppoly.jpg
 categories: projects
 website: "https://github.com/kilianhae/RTAI23_project"
 authors: "Kilian Haefeli"
 ---
-Implemented an optimizable Neural DeepPoly Verifier. The verifiers are implemented as torch Modules so that their configurations are compatible wth any Optimizer Setup that PyTorch has to offer. Implemented are verifiers for MLP, Flatten, Conv2D, ReLU, LeakyReLU layers.
+Implemented an optimizable Neural DeepPoly Verifier implemented as torch Modules. Compatible wth any Optimizer Setup that PyTorch has to offer. This serves to efficently and tightly verify neural networks on adversarial robustness. 
