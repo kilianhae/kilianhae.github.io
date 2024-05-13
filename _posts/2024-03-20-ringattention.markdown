@@ -7,4 +7,4 @@ categories: projects
 website: "https://github.com/kilianhae/Attention.C"
 authors: "Kilian Haefeli"
 ---
-A cuda C implementation of the Attention operator. From the most naive kernels we implemented more and more optimized kernels for Matrix Transpose, Multiplication and Softmax.
+A cuda C implementation of the Attention operator. Multiple increasingly optimized versions of Matrix Transpose, Matmul and Softmax kernels are provided.
