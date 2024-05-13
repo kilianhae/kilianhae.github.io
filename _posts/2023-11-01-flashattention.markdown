@@ -2,7 +2,7 @@
 layout: post
 title:  "Flash Attention in C"
 date:   2024-04-01 00:00:00 +00:00
-image: /images/deeppoly.jpg
+image: /images/white.jpg
 categories: projects
 website: "https://github.com/kilianhae/FlashAttention.C"
 authors: "Kilian Haefeli"

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Ring Attention Explained"
+title:  "Attention in C"
 date:   2024-04-01 00:00:00 +00:00
-image: /images/deeppoly.jpg
+image: /images/white.jpg
 categories: projects
-website: "https://coconut-mode.com/posts/ring-attention/"
+website: "https://github.com/kilianhae/Attention.C"
 authors: "Kilian Haefeli"
 ---
-A cuda C implementation of [Flash Attenton](https://arxiv.org/abs/2205.14135) without using any libraries such as cublas or cutlass. In ~300 lines of code this kernel is faster and more memory efficient than the standard PyTorch attention module.
+A cuda C implementation of the Attention operator. From the most naive kernels we implemented more and more optimized kernels for Matrix Transpose, Multiplication and Softmax.
