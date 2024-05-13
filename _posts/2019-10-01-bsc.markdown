@@ -6,4 +6,4 @@ image: /images/ethlogo.jpg
 categories: Education
 author: "Kilian Haefeli"
 ---
-Did my bachelors degree at ETH from 2019 - 2022 in Electrical Engineering and Information Technology. My coursework was focused on Algorithms and Machine Learning, especially Graph Neural Networks and Diffusion Models.
+Coursework focused on Systems, Algorithms and Machine Learning, with special focus on generative models.
