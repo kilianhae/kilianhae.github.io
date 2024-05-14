@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Attention in C"
-date:   2024-04-01 00:00:00 +00:00
+title:  "Attention in C CUDA"
+date:   2024-03-01 00:00:00 +00:00
 image: /images/white.jpg
 categories: projects
 website: "https://github.com/kilianhae/Attention.C"

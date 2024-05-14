@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flash Attention in C"
+title:  "Flash Attention in cuda C"
 date:   2024-04-01 00:00:00 +00:00
 image: /images/white.jpg
 categories: projects
