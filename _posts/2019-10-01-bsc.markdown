@@ -6,4 +6,4 @@ image: /images/ethlogo.png
 categories: Education
 author: "Kilian Haefeli"
 ---
-Coursework focused on Systems, Algorithms and Machine Learning, with special focus on generative models.
+EECS bachelors focusing on Machine Learning and Computer Science.
