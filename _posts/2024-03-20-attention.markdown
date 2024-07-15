@@ -2,9 +2,9 @@
 layout: post
 title:  "Attention in C CUDA"
 date:   2024-03-01 00:00:00 +00:00
-image: /images/white.jpg
+image: /images/light.jpg
 categories: projects
 website: "https://github.com/kilianhae/Attention.C"
 authors: "Kilian Haefeli"
 ---
-A cuda C implementation of the Attention operator. Multiple increasingly optimized versions of Matrix Transpose, Matmul and Softmax kernels are provided.
+A cuda C implementation of the Attention operator. Multiple increasingly optimized versions of Matrix Transpose, Matmul and Softmax kernels.
