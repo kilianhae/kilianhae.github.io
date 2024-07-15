@@ -8,5 +8,4 @@ categories: Experience
 role: Co-Founder & Junior Data Scientist
 website: "https://airica.com"
 ---
-Together with my friend [Lukas Limacher](https://www.linkedin.com/in/lukaslimacher/){:target="_blank"}  and [Vassilis Kalofolias](https://scholar.google.com/citations?user=Bz1RQ8MAAAAJ&hl=en){:target="_blank"}, I started an IoT company specializing in models for predicting meeting room occupancy.\
-The company was acquired by Logitech in 2022.
+Airica produces sensors and accompanying models to analyze, manage and predict room occupancy using indoor-air-quality measurements. Acquired in 2022 by Logitech.
