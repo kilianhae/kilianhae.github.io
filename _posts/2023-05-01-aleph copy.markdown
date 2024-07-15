@@ -8,4 +8,4 @@ categories: Experience
 role: LLM Engineer Intern
 website: "https://aleph-alpha.com"
 ---
-Working on Retrieval Augmented Generation for a chat application.
+Working on Retrieval Augmented Generation.
