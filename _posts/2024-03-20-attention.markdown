@@ -2,7 +2,7 @@
 layout: post
 title:  "Attention in C CUDA"
 date:   2024-03-01 00:00:00 +00:00
-image: /images/light.jpg
+image: /images/light.jpeg
 categories: projects
 website: "https://github.com/kilianhae/Attention.C"
 authors: "Kilian Haefeli"
