@@ -7,4 +7,5 @@ categories: projects
 website: "https://github.com/kilianhae/FlashAttention.C"
 authors: "Kilian Haefeli"
 ---
-A cuda C implementation of [Flash Attenton](https://arxiv.org/abs/2205.14135) without using any libraries such as cublas or cutlass. In ~300 lines of code this kernel is faster and more memory efficient than the standard PyTorch attention module.
+[Flash Attenton](https://arxiv.org/abs/2205.14135) in ~300 lines of pure Cuda C, outperforming native PyTorch Attention.
+Manually implemented and profiled methods such as SMEM tiling, SMEM padding for reduced bank conflicts, 2D Blocktiling and  vectorized memory access.
