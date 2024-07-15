@@ -7,4 +7,4 @@ categories: projects
 website: "https://github.com/kilianhae/RTAI23_project"
 authors: "Kilian Haefeli"
 ---
-Implemented an optimizable Neural DeepPoly Verifier implemented as torch Modules. Compatible wth any Optimizer Setup that PyTorch has to offer. This serves to efficently and tightly verify neural networks on adversarial robustness. 
+Implemented an optimizable Neural DeepPoly Verifier as custom torch modules.
