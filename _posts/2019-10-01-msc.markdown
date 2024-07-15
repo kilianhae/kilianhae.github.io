@@ -6,4 +6,4 @@ image: /images/ethlogo.png
 categories: Education
 author: "Kilian Haefeli"
 ---
-Attending EECS masters, focussing on optimization and theory of Neural Networks as well as systems for Transformers.
+EECS masters, focussing on Machine Learning, Optimization and Deep Learning alongside some Systems for ML.
