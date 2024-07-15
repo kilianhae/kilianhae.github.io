@@ -6,4 +6,4 @@ image: /images/ethlogo.png
 categories: Education
 author: "Kilian Haefeli"
 ---
-EECS bachelors focusing on Machine Learning and Computer Science.
+EECS bachelors focussing on Machine Learning and Computer Science.
