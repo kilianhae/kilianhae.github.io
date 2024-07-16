@@ -114,6 +114,10 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Experience</h2>
+        <p>
+          i am currently working as an intern of technical staff on pretraining and performance engineering at cohere. Prior to that I have worked won Retrieval Augmented Generation at Aleph Alpha. during my undergrad I co-founded a company called Airica which specialized in indoor air quality sensors and accompanying software to analyze, manage and predict room occupancy using indoor air-quality measurements. The conpany was later sold to Logitech where I continued working on sequence models for time series prediction for a brief time.  
+        </p>
+          
             </td>
           </tr>
         </table>
@@ -123,46 +127,7 @@
           {% for cat in post.categories %}
           {% if cat == 'Experience' %}
           <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              {{ post.from | date: "%Y-%m-%d" }} / {{ post.until | date: "%Y-%m-%d" }}
-              <br>
-              {{ post.role | role: post.role }}
-              <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
