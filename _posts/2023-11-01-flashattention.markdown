@@ -2,7 +2,7 @@
 layout: post
 title:  "Flash Attention in C CUDA"
 date:   2024-04-01 00:00:00 +00:00
-image: /images/light.jpeg
+image: /images/light.png
 categories: projects
 website: "https://github.com/kilianhae/FlashAttention.C"
 authors: "Kilian Haefeli"
